@@ -6,7 +6,7 @@ Il faut:
 - Mot de passe ent
 - Url de la visio
 
-En terme de logiciel:
+logiciel:
 - Google Chrome (obligatoire)
 
 Télécharger le fichier, le déziper.
